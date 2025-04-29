@@ -27,4 +27,4 @@ pip install easygui
   **Clone the Repository:**
    ```bash
    git clone <repository-url>
-   cd File Manager
+   cd file-manager
