@@ -24,7 +24,9 @@ Install `easygui` with pip if you don't already have it:
 pip install easygui
 ```
 ### How to run:
-  **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd file-manager
+**Clone the repository:**
+```bash
+git clone https://github.com/panagiotismisios/File_Manager
+cd File_Manager
+python file_manager.py
+```
