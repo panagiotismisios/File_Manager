@@ -1,4 +1,4 @@
-# Python File Manager GUI
+# File Manager
 
 This is a simple yet functional File Manager application built using **Python** and **Tkinter**. It allows users to perform basic file and folder operations through a graphical user interface (GUI).
 
